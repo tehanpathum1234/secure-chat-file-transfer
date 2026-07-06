@@ -137,8 +137,8 @@ try :
         blocked_ips.add(ip)
         print(f'[{timestamp()}] IP {ip} blocked after {MAX_ATTEMPTS} failed logins')
 
-       s.sendall(b'ERROR: wrong password')
-       s.sendall("Try again".encode())
+       s.sendall(b'ERROR: wrong password !')
+       s.sendall("  Try again".encode())
        continue
 
      else :
