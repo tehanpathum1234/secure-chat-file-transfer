@@ -153,7 +153,7 @@ try :
       s.sendall(f"[{timestamp()}] Welcome, {names[s]}!".encode())
      continue
 
-    if is_text and text.startswith('FILE:') :
+    if is_text and text.startswith('file:') :
      for c in clients : 
       if c is not s :
        try : c.sendall(f'[{timestamp()}] {names[s]} is sending a file : {text} '.encode())

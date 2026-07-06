@@ -1,22 +1,18 @@
 {
   "admin": {
-    "salt": "3d2265aba5405a7a",
-    "hash_password": "072b0eb41f8a091c55e0750e88ea17cc7b58075eb5af62756325384c77f92882"
+    "salt": "6ebadf370fe2cfe4",
+    "hash_password": "ae41096277c1478dcefe9dda99abbdcad7ff58570af12d9b302529485fa8d4db"
   },
   "Pathum": {
-    "salt": "1122c3a31fdee1ac",
-    "hash_password": "8beaa161f22b19d87ba02abf48202a6cd3a02e6a6b2250c5ffd51a5164673905"
+    "salt": "d6cd9f7a2d78a249",
+    "hash_password": "8342baf35e2912167715abf56950df9295eb07c4ee25ec8a3777c64f64d524a9"
   },
-  "Tehan": {
-    "salt": "a6f0b2819c9fbde0",
-    "hash_password": "ecf6e407e8bf4f8a6f911f71646fb299bcb4f999df6c8669f004f087f3facdbb"
+  "Bob": {
+    "salt": "890cfe37cf9da166",
+    "hash_password": "a8ae70d994ebc66d3cd2edc4a3fd56beaccfb4fca93b492098a6ed3bd4451ae7"
   },
-  "Vinudi": {
-    "salt": "270945fd36fd2a4a",
-    "hash_password": "7ed1f60c384c8f7efdac1671a4616f168ac16c9780d09c5da2dd4f23e124253c"
-  },
-  "Rashmika": {
-    "salt": "404620d6edd1531a",
-    "hash_password": "588112901e2aea3d3fa9ad12f8a8524121e1ff629149ed9d0b41257ea80c4f73"
+  "Alice": {
+    "salt": "d46f4b8814823691",
+    "hash_password": "5757c4ce5465d3915d22b21b5653ca2769f5c08af70f4f36b4f6956dc41b51ea"
   }
 }

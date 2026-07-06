@@ -56,7 +56,7 @@ def send_file(sock, filepath) :
  filename = os.path.basename(filepath)
  with open(filepath, 'rb') as f :
   filedata = f.read()
- header = f'FILE:{filename}:{len(filedata)}'
+ header = f'file:{filename}:{len(filedata)} bytes'
  sock.sendall(header.encode())
  sock.sendall(filedata)
  print(f'Sent file : {filename} ({len(filedata)} bytes)')
