@@ -90,7 +90,7 @@ Secure-Chat-System/
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/Secure-Chat-System.git
+git clone https://github.com/tehanpathum1234/secure-chat-file-transfer.git
 
 ⸻
 
