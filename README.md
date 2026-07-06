@@ -102,7 +102,7 @@ cd Secure-Chat-System
 
 3. Start the Server
 
-python server.py
+python3 project_server_e.py
 
 ⸻
 
@@ -110,7 +110,7 @@ python server.py
 
 Open another terminal and run:
 
-python client.py
+python3 project_client_e.py
 
 Run additional clients to connect multiple users.
 
@@ -184,46 +184,3 @@ The following features are planned for future releases:
 * Secure Session Tokens
 * Two-Factor Authentication (2FA)
 
-⸻
-
-📸 Screenshots
-
-You can add screenshots here.
-
-screenshots/
-    login.png
-    chat.png
-    admin.png
-    file_transfer.png
-
-Example:
-
-## Login
-![Login](screenshots/login.png)
-## Chat
-![Chat](screenshots/chat.png)
-
-⸻
-
-🤝 Contributions
-
-Contributions, suggestions, and feedback are welcome. Feel free to fork this repository and submit a pull request.
-
-⸻
-
-📄 License
-
-This project is licensed under the MIT License.
-
-⸻
-
-👤 Author
-
-Pathum Tehan
-
-* 🎓 Undergraduate Student
-* 💻 Interested in Cybersecurity, Networking, and Python Development
-
-⸻
-
-⭐ If you found this project helpful or interesting, consider giving it a Star on GitHub!
